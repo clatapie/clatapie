@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"> 
 
-Nice to meet you! My name is [Camille](https://www.linkedin.com/in/camille-latapie/?locale=en_US), I am a French
-Applied Mathematics engineer and I am based in Spain.
+Nice to meet you!   
+My name is [Camille](https://www.linkedin.com/in/camille-latapie/?locale=en_US). I am a French Applied Mathematics engineer and I am based in Spain.
 
 ## 📝 In brief
 
@@ -9,7 +9,7 @@ Applied Mathematics engineer and I am based in Spain.
 
 🚀 Currently working on [PyAnsys](https://docs.pyansys.com/version/stable/), an exciting open-source project that facilitates the utilization of Ansys products using Python.
 
-🎓 Graduated from [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) with a degree in Applied Mathematics, I studied a wide range of subjects, including Machine Learning, Fluid Mechanics, and Structural Mechanics.
+🎓 Graduated from [INSA Toulouse](https://www.insa-toulouse.fr/en/index.html) with a master's degree in Applied Mathematics, I studied a wide range of subjects, including Machine Learning, Fluid Mechanics, and Structural Mechanics.
 
 💡 Fascinated by the endless possibilities of simulation, I find joy in exploring its applications in diverse fields like mechanics, biology, mathematics and, geospatial analytics.
 
