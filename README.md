@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"> 
 
 Nice to meet you!   
-My name is [Camille](https://www.linkedin.com/in/camille-latapie/?locale=en_US). I am an Applied Mathematics engineer and I am based in Spain.
+My name is [Camille](https://www.linkedin.com/in/camille-latapie/?locale=en_US). I am an Applied Mathematics engineer and I am based in France.
 
 ## 📝 In brief
 
